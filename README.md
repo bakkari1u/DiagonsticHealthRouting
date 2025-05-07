@@ -18,7 +18,7 @@ Cette api permet à partir d’un index de santé de déterminer l’unité méd
 
 ```
 git clone https://github.com/bakkari1u/DiagonsticHealthRouting.git
-cd diagnostic
+cd DiagonsticHealthRouting
 mvn clean install
 mvn spring-boot:run
 ```
